@@ -1,0 +1,4 @@
+order_id,customer_id,amount,status,created_at
+1001,501,150.50,completed,2024-01-15
+1002,501,,pending,2024-01-15
+1003,502,75.00,completed,2024-01-15
